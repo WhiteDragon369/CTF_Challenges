@@ -6,6 +6,8 @@ I was learning Django and made this cool calculator that can do some simple stuf
 
 [Challenge](https://random123123123123.pythonanywhere.com/calculate)
 
+If you can't solve it, blame @segfault, not me😏.
+
 ## Files
 
 [getFlag.zip](./getFlag.zip)
